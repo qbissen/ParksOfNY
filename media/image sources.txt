@@ -1,0 +1,45 @@
+http://static.thousandwonders.net/Taughannock.Falls.State.Park.original.13533.jpg: homepage 3 picture
+
+letchworth1=https://upload.wikimedia.org/wikipedia/commons/0/0f/Lower_Fall_%26_Stone_footbridge_at_Letchworth_State_Park,_New_York,_USA.jpg
+letchworth2=https://s-media-cache-ak0.pinimg.com/originals/64/fb/03/64fb035b317209d205633d0851f82daa.jpg
+letchworth3=http://tomstirrphotography.com/wp-content/uploads/2014/12/Letchworth-11.jpg
+letchworth8=https://upload.wikimedia.org/wikipedia/commons/7/78/Lower_Falls_at_Letchworth_State_Park,_New_York,_USA.jpg
+letchworthmap=http://www.letchworthconcessionsandevents.com/LetchworthTrailMap-rs.jpg
+
+
+
+watkins4=http://www.cnyhiking.com/WatkinsGlenStateParkPano001.jpg
+
+
+roy1:http://ithacafingerlakes.com/wp-content/uploads/2013/06/FLLT-P63-1-18_0064-1024x681.jpg
+
+taughannock6 = http://static.thousandwonders.net/Taughannock.Falls.State.Park.original.13533.jpg
+taughannockMap = http://www.mobilemaplets.com/thumbnails/12017_thumbnail-1024.jpg
+
+treman1 = http://cnyhiking.com/LuciferFallsPanorama0021.jpg
+treman2 = https://upload.wikimedia.org/wikipedia/en/b/b0/Tremanstatepark.JPG
+treman3 = http://i0.wp.com/gallagherstravels.com/wp-content/uploads/2012/07/Lucifer-Falls-Treman-State-Park.jpg
+treman4 = http://ineedtogooutside.com/wp-content/uploads/2012/06/100_4114.jpg
+tremanMap = http://www.mobilemaplets.com/thumbnails/5197_thumbnail-1024.jpg
+
+
+keuka1 = http://static.panoramio.com/photos/original/55740678.jpg
+keuka2 = http://thechaironthelake.com/wp-content/uploads/2014/09/Keuka-Lake-Mary-StGeorge-Realtor.jpg
+keuka3 = https://agreenesadventures.files.wordpress.com/2013/07/img_0409.jpg
+keuka4 = http://3.bp.blogspot.com/-PB33NRK-8Ds/UbpmTMfas9I/AAAAAAAABp4/mml_PlNEwlM/s1600/IMG_2455.JPG
+keukaMap = https://fingerlakessum.files.wordpress.com/2012/03/picture-1.png
+
+ithaca5 = https://upload.wikimedia.org/wikipedia/commons/4/40/Cornell_University_arts_quad.JPG
+ithaca2 = https://upload.wikimedia.org/wikipedia/commons/2/2e/Cornell_University_from_McGraw_Tower.JPG
+ithaca3 = https://dragonflynaturephotography.files.wordpress.com/2015/01/img_3393.jpg
+ithaca4 = https://jpjimages.files.wordpress.com/2010/03/ithaca-falls.jpg
+
+yellowbarnMap = http://www.dec.ny.gov/lands/37407.html
+yellowbarn1 = http://ithacafingerlakes.com/wp-content/uploads/2013/01/tamarack-2-245.jpg
+
+buttermilk1 = https://upload.wikimedia.org/wikipedia/commons/e/e2/Buttermilk_Falls_3.JPG
+buttermilk2 = https://upload.wikimedia.org/wikipedia/en/6/68/Buttermilk_Falls,_Buttermilk_Falls_State_Park,_near_Ithaca,_NY_(15_05_2005).jpg
+buttermilk3 = https://s-media-cache-ak0.pinimg.com/originals/b6/b3/12/b6b3128c3a3392a4761defdb7261ee80.jpg
+buttermilk4 = http://cnyhiking.com/HPIM2855.JPG
+
+camping = http://www.backpackingculture.com/wp-content/uploads/2014/07/DSC03584.jpg

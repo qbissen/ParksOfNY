@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" type="text/css" href="css/project.css" />
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  <title>The Parks of Central New York</title>
+</head>
+<body>
+
+<header>
+  <h1>The Parks of Central New York</h1>
+</header>
+
+  <main>
+
+
+    <nav>
+        <ul>
+          <li> <a href="individual_project.html">Home</a></li>
+
+
+          <div class="dropdown">
+            <li><a href="#"></a>Parks of Central New York</li>
+            <div class="dropdown-content">
+              <li> <a href="letchworth_state_park.html">Letchworth State Park</a></li>
+              <li> <a href="keuka_lake_state_park.html">Keuka Lake</a></li>
+              <li> <a href="walkins_glen_state_park.html">Watkins Glen State Park </a></li>
+              <li> <a href="taughannock_falls_state_park.html">Taughannock Falls State Park </a></li>
+              <li> <a href="robert_h_treman.html">Robert H. Treman Park </a></li>
+              <li> <a href="ithaca_falls.html">Ithaca Falls</a></li>
+              <li> <a href="roy_h_parkpreserve.html">Roy H. Parkpreserve </a></li>
+              <li> <a href="yellow_barn_state_forest.html">Yellow Barn State Forest </a></li>
+              <li> <a href="buttermilk_falls.html">Buttermilk Falls</a></li>
+            </div>
+          </div>
+
+
+          <li> <a href="prep_guide.html">Preparation Guide</a></li>
+          <li> <a href="about.html">About</a></li>
+        </ul>
+    </nav>
